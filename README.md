@@ -1,6 +1,7 @@
 # README
 
 
+
 This will be my second project made in the rails system. I am creating a site for a paving service in the local area. I am hoping this will be the first successful program that will help my client
 
 I have more experience in dealing with the people in the area than actually using the RAILS system. This is especially true for paving companies in Dayton and Springfield Ohio. 
@@ -9,6 +10,7 @@ I usually would build my sites in weebly or wordpress for my local septic tank c
 
 Asphalt Company  - importance of the phrase
 
-I have been working with an [asphalt company](http://www.springfieldpavingco.com) and so far he has been a great guy to work with. He has an established [commercial paving services](http://www.springfieldpavingco.com) company that he started. I was able to get him some leads organically, but have not had much luck with google adwords or bing adwords.
+I have been working with one of the top [paving companies](http://www.springfieldpavingco.com) in Springfield, Ohio and so far he has been a great guy to work with. He has an established [commercial paving services](http://www.springfieldpavingco.com) company that he started. I was able to get him some leads organically, but have not had much luck with google adwords or bing adwords.
 
 Hoping to get better rankings that will lead to more phone calls for my client.
+

@@ -8,7 +8,7 @@ I usually would build my sites in weebly or wordpress for my local septic tank c
 
 Asphalt Company  - importance of the phrase
 
-I have been working with one of the top [paving companies](http://www.springfieldpavingco.com) in Springfield, Ohio and so far he has been a great guy to work with. He has an established [seal coating](http://www.springfieldpavingco.com) company that he started. I was able to get him some leads organically, but have not had much luck with google adwords or bing adwords.
+I have been working with an [asphalt company](http://www.springfieldpavingco.com) in Springfield, Ohio and so far he has been a great guy to work with. He has an established [seal coating](http://www.springfieldpavingco.com) company that he started. I was able to get him some leads organically, but have not had much luck with google adwords or bing adwords.
 
 Hoping to get better rankings that will lead to more phone calls for my client and possible referrals.
 
